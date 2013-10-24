@@ -1,0 +1,19 @@
+C:\Documents and Settings\Admin\Мои документы\Экомол\EAN13\Ean13Barcode2005\bin\Debug\Ean13Barcode2005.exe.config
+C:\Documents and Settings\Admin\Мои документы\Экомол\EAN13\Ean13Barcode2005\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Admin\Мои документы\Экомол\EAN13\Ean13Barcode2005\obj\Debug\Ean13Barcode2005.Properties.Resources.resources
+C:\Documents and Settings\Admin\Мои документы\Экомол\EAN13\Ean13Barcode2005\obj\Debug\Ean13Barcode2005.csproj.GenerateResource.Cache
+C:\Documents and Settings\Admin\Мои документы\Экомол\EAN13\Ean13Barcode2005\bin\Debug\Ean13Barcode2005.exe
+C:\Documents and Settings\Admin\Мои документы\Экомол\EAN13\Ean13Barcode2005\bin\Debug\Ean13Barcode2005.pdb
+C:\Documents and Settings\Admin\Мои документы\Экомол\EAN13\Ean13Barcode2005\obj\Debug\Ean13Barcode2005.exe
+C:\Documents and Settings\Admin\Мои документы\Экомол\EAN13\Ean13Barcode2005\obj\Debug\Ean13Barcode2005.pdb
+C:\Documents and Settings\Admin\Мои документы\Экомол\EAN13\Ean13Barcode2005\obj\Debug\Ean13Barcode2005.frmEan13.resources
+D:\Programming\Экомол\EAN13\Ean13Barcode2005\obj\Debug\ResolveAssemblyReference.cache
+D:\Programming\Экомол\EAN13\Ean13Barcode2005\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\Programming\Экомол\EAN13\Ean13Barcode2005\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\Programming\Экомол\EAN13\Ean13Barcode2005\bin\Debug\Ean13Barcode.exe.config
+D:\Programming\Экомол\EAN13\Ean13Barcode2005\bin\Debug\Ean13Barcode.exe
+D:\Programming\Экомол\EAN13\Ean13Barcode2005\bin\Debug\Ean13Barcode.pdb
+D:\Programming\Экомол\EAN13\Ean13Barcode2005\obj\Debug\Ean13Barcode.Properties.Resources.resources
+D:\Programming\Экомол\EAN13\Ean13Barcode2005\obj\Debug\Ean13Barcode.exe
+D:\Programming\Экомол\EAN13\Ean13Barcode2005\obj\Debug\Ean13Barcode.pdb
+D:\Programming\Экомол\EAN13\Ean13Barcode2005\obj\Debug\Ean13Barcode.frmEan13.resources

@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Class-Path: ./jaybird-full-2.1.6.jar
+Main-Class: com.ast.connector.Launcher
+

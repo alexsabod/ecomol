@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Ean13Barcode2005">
+</Property><Property Name="Solution File" Value="D:\Programming\Экомол\EAN13\Ean13Barcode2005.sln">
+</Property><Property Name="User Options File" Value="D:\Programming\Экомол\EAN13\Ean13Barcode2005.suo">
+</Property><Property Name="Date" Value="20 мая 2011 г.">
+</Property><Property Name="Time" Value="15:44">
+</Property><Property Name="Log Number" Value="2">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Ean13Barcode2005.sln" Description="File successfully backed up as D:\Programming\Экомол\EAN13\Backup\Ean13Barcode2005.sln">
+</Event><Event ErrorLevel="0" Project="" Source="Ean13Barcode2005.suo" Description="File successfully backed up as D:\Programming\Экомол\EAN13\Backup\Ean13Barcode2005.suo">
+</Event><Event ErrorLevel="0" Project="Ean13Barcode2005" Source="Ean13Barcode2005\Ean13Barcode2005.csproj" Description="Project file successfully backed up as D:\Programming\Экомол\EAN13\Backup\Ean13Barcode2005\Ean13Barcode2005.csproj">
+</Event><Event ErrorLevel="0" Project="Ean13Barcode2005" Source="Ean13Barcode2005\Ean13Barcode2005.csproj.user" Description="Project user file successfully backed up as D:\Programming\Экомол\EAN13\Backup\Ean13Barcode2005\Ean13Barcode2005.csproj.user">
+</Event><Event ErrorLevel="0" Project="Ean13Barcode2005" Source="Ean13Barcode2005\ConnStr.cs" Description="File successfully backed up as D:\Programming\Экомол\EAN13\Backup\Ean13Barcode2005\ConnStr.cs">
+</Event><Event ErrorLevel="0" Project="Ean13Barcode2005" Source="Ean13Barcode2005\Ean13.cs" Description="File successfully backed up as D:\Programming\Экомол\EAN13\Backup\Ean13Barcode2005\Ean13.cs">
+</Event><Event ErrorLevel="0" Project="Ean13Barcode2005" Source="Ean13Barcode2005\frmEan13.cs" Description="File successfully backed up as D:\Programming\Экомол\EAN13\Backup\Ean13Barcode2005\frmEan13.cs">
+</Event><Event ErrorLevel="0" Project="Ean13Barcode2005" Source="Ean13Barcode2005\frmEan13.Designer.cs" Description="File successfully backed up as D:\Programming\Экомол\EAN13\Backup\Ean13Barcode2005\frmEan13.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Ean13Barcode2005" Source="Ean13Barcode2005\Program.cs" Description="File successfully backed up as D:\Programming\Экомол\EAN13\Backup\Ean13Barcode2005\Program.cs">
+</Event><Event ErrorLevel="0" Project="Ean13Barcode2005" Source="Ean13Barcode2005\Properties\AssemblyInfo.cs" Description="File successfully backed up as D:\Programming\Экомол\EAN13\Backup\Ean13Barcode2005\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Ean13Barcode2005" Source="Ean13Barcode2005\Properties\Resources.Designer.cs" Description="File successfully backed up as D:\Programming\Экомол\EAN13\Backup\Ean13Barcode2005\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Ean13Barcode2005" Source="Ean13Barcode2005\Properties\Settings.Designer.cs" Description="File successfully backed up as D:\Programming\Экомол\EAN13\Backup\Ean13Barcode2005\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Ean13Barcode2005" Source="Ean13Barcode2005\app.config" Description="File successfully backed up as D:\Programming\Экомол\EAN13\Backup\Ean13Barcode2005\app.config">
+</Event><Event ErrorLevel="0" Project="Ean13Barcode2005" Source="Ean13Barcode2005\Properties\Settings.settings" Description="File successfully backed up as D:\Programming\Экомол\EAN13\Backup\Ean13Barcode2005\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="Ean13Barcode2005" Source="Ean13Barcode2005\frmEan13.resx" Description="File successfully backed up as D:\Programming\Экомол\EAN13\Backup\Ean13Barcode2005\frmEan13.resx">
+</Event><Event ErrorLevel="0" Project="Ean13Barcode2005" Source="Ean13Barcode2005\Properties\Resources.resx" Description="File successfully backed up as D:\Programming\Экомол\EAN13\Backup\Ean13Barcode2005\Properties\Resources.resx">
+</Event><Event ErrorLevel="1" Project="Ean13Barcode2005" Source="Ean13Barcode2005\Ean13Barcode2005.csproj" Description="Your project is targeting .NET Framework 2.0 or 3.0. If your project uses assemblies requiring a newer .NET Framework, your project will fail to build. You can change the .NET Framework version by clicking Properties on the project menu and then selecting a new version in the '.NET Framework' dropdown box. (In Visual Basic, this is located on the Compile tab by clicking the 'Advanced Compiler Options...' button.)">
+</Event><Event ErrorLevel="0" Project="Ean13Barcode2005" Source="Ean13Barcode2005\Ean13Barcode2005.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Ean13Barcode2005" Source="Ean13Barcode2005\Ean13Barcode2005.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Ean13Barcode2005.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Ean13Barcode2005.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Ean13Barcode2005" Source="Ean13Barcode2005\Ean13Barcode2005.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

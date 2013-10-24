@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Ean13Barcode2005">
+</Property><Property Name="Solution File" Value="C:\Documents and Settings\Admin\Мои документы\Экомол\EAN13\Ean13Barcode2005.sln">
+</Property><Property Name="Date" Value="24 августа 2010 г.">
+</Property><Property Name="Time" Value="17:30">
+</Property></Properties><Event ErrorLevel="0" Project="Ean13Barcode2005" Source="Ean13Barcode2005\Ean13Barcode2005.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Ean13Barcode2005" Source="Ean13Barcode2005\Ean13Barcode2005.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Ean13Barcode2005.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Ean13Barcode2005.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Ean13Barcode2005" Source="Ean13Barcode2005\Ean13Barcode2005.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
